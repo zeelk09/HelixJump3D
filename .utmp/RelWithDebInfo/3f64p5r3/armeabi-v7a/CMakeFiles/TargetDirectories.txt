@@ -1,0 +1,5 @@
+D:/unity/Helixjump3D/.utmp/RelWithDebInfo/3f64p5r3/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/unity/Helixjump3D/.utmp/RelWithDebInfo/3f64p5r3/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/unity/Helixjump3D/.utmp/RelWithDebInfo/3f64p5r3/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/unity/Helixjump3D/.utmp/RelWithDebInfo/3f64p5r3/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+D:/unity/Helixjump3D/.utmp/RelWithDebInfo/3f64p5r3/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
